@@ -9,7 +9,7 @@ The **All Structures Tracker** is a program made for the [All Structures](https:
   •  <a href="#installation">Installation</a></br>
   •  <a href="#usage">Usage</a></br>
   •  <a href="#overlay">Overlay</a></br>
-  •  <a href="#Find">Find Me On These Platforms</a>
+  •  <a href="#find-me-on-these-platforms">Find Me On These Platforms</a>
 </p>
 
 ## Requirements
