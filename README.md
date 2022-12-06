@@ -46,7 +46,7 @@ The tracker contains an overlay that you can display for your streams. You only 
     <img src="https://imgur.com/oN6wagk.png">
 </p>
 
-## Find Me On These Platforms
+## Find me on these platforms
 
 - [Twitch](https://twitch.tv/avocat_t/)
 - [Discord](https://discord.gg/MS9AqMXTbG)
