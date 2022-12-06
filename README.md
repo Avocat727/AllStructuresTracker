@@ -5,11 +5,11 @@ The **All Structures Tracker** is a program made for the [All Structures](https:
 ## Table of contents
 
 <p>
-  •  <a href="#Requirements">Requirements</a></br>
-  •  <a href="#Installation">Installation</a></br>
-  •  <a href="#Usage">Usage</a></br>
-  •  <a href="#Overlay">Overlay</a></br>
-  •  <a href="#Find Me On These Platforms">Find Me On These Platforms</a>
+  •  <a href="#requirements">Requirements</a></br>
+  •  <a href="#installation">Installation</a></br>
+  •  <a href="#usage">Usage</a></br>
+  •  <a href="#overlay">Overlay</a></br>
+  •  <a href="#Find">Find Me On These Platforms</a>
 </p>
 
 ## Requirements
