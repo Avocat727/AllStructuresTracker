@@ -1,6 +1,6 @@
 # All Structures Tracker
 
-The **All Structures Tracker** is a program made for the [All Structures](https://speedrun.com/mc_juice#All_Structures) minecraft speedrunning category.
+The **All Structures Tracker** is a program made for the [All Structures](https://www.speedrun.com/mc_juice?h=All_Structures-RSG&x=7kj78zxk-j84dj0y8.jqzm4zkl) minecraft speedrunning category.
 
 ## Table of contents
 
